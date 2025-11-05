@@ -1,3 +1,4 @@
 baseURL = 'https://penne.blog/'
 languageCode = 'en-us'
-title = 'Pennes Simple Theme'
+title = 'Pennes Theme'
+theme = 'penne-theme'

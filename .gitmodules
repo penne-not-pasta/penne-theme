@@ -1,0 +1,3 @@
+[submodule "themes/penne-theme2"]
+	path = themes/penne-theme2
+	url = https://github.com/penne-not-pasta/penne-theme.git
