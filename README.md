@@ -1,5 +1,7 @@
 # Penne Theme
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2e0c3c06-911a-4428-99cb-bb25f9de0b29/deploy-status)](https://app.netlify.com/projects/unique-manatee-c9e8cc/deploys)
+
 this is my hugo theme!!
 
 ## Resources Used
@@ -43,5 +45,9 @@ Installation:
 ## Demo Link
 
 https://penne-not-pasta.github.io/penne-theme/
+
+## View Demo Images
+
+
 
 # Thank You!!
