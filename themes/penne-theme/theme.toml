@@ -7,7 +7,7 @@ description = 'A very simple monokai based theme!'
 homepage = 'https://github.com/penne-not-pasta/penne-theme'
 
 # Demo Site
-demo = 'https://penne-not-pasta.github.io/penne-theme/'
+demosite = 'https://penne-not-pasta.github.io/penne-theme/'
 
 # Taxonomy terms
 tags = ['blog', 'monokai', 'simple', 'fun', 'colorful', 'basic', 'multi-language', 'english', 'chinese', 'dark', 'dark mode']
