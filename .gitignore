@@ -1,0 +1,4 @@
+/txts
+*txt
+.env
+*.log

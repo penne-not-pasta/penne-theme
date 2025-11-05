@@ -1,0 +1,19 @@
+name = 'Pennes Monokai Theme'
+license = 'MIT'
+licenselink = 'https://github.com/penne-not-pasta/penne-theme/LICENSE'
+description = 'A very simple monokai based theme!'
+
+# The home page of the theme, where the source can be found
+homepage = 'https://github.com/penne-not-pasta/penne-theme'
+
+# Demo Site
+demo = 'https://penne-not-pasta.github.io/penne-theme/'
+
+# Taxonomy terms
+tags = ['blog', 'monokai', 'simple', 'fun', 'colorful', 'basic', 'multi-language', 'english', 'chinese', 'dark', 'dark mode']
+features = ['blog', 'responsive', 'multilingual', 'dark mode']
+
+# If the theme has a single author
+[author]
+  name = 'Penelope'
+  homepage = 'https://github.com/penne-not-pasta'
